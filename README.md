@@ -1,2 +1,3 @@
-# efecan
-Tipo20
+
+00
+08j
