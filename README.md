@@ -1,2 +1,0 @@
-# efecan
-Tipo20
